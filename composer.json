@@ -1,5 +1,5 @@
 {
-    "name": "sima-land/api-php-client",
+    "name": "alfexandr/api-php-client",
     "type": "library",
     "description": "Client library for Simaland APIs",
     "keywords": ["simaland", "api", "php", "client"],
